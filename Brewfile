@@ -8,3 +8,6 @@ brew "jq"
 
 # Node
 brew "nvm"
+
+# Azure cli
+brew "azure-cli"
