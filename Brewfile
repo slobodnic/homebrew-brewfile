@@ -10,8 +10,5 @@ cask "font-roboto-mono-for-powerline"
 brew "jq"
 brew "yarn"
 
-# Node
-brew "nvm"
-
 # Azure cli
 brew "azure-cli"
