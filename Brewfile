@@ -8,7 +8,7 @@ brew "bash-completion@2"
 brew "jq"
 brew "yarn"
 brew "nvm"
-berw "angular-cli"
+brew "angular-cli"
 
 # Azure cli
 brew "azure-cli"
