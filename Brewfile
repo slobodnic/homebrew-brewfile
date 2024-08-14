@@ -15,3 +15,7 @@ brew "azure-cli"
 
 # Kubernetes
 brew "kubectl"
+
+# .Net
+brew "dotnet"
+brew "dotnet-sdk"
