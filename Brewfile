@@ -18,4 +18,4 @@ brew "kubectl"
 
 # .Net
 brew "dotnet"
-brew "dotnet-sdk"
+cask "dotnet-sdk"
