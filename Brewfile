@@ -24,4 +24,4 @@ brew "dotnet"
 cask "visual-studio-code"
 
 #iTerm2
-brew "iterm2"
+cask "iterm2"
