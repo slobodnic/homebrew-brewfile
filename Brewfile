@@ -22,3 +22,6 @@ brew "dotnet"
 
 # VS Code
 cask "visual-studio-code"
+
+#iTerm2
+brew "iterm2"
