@@ -21,4 +21,4 @@ brew "dotnet"
 # cask "dotnet-sdk"
 
 # VS Code
-cash "visual-studio-code"
+cask "visual-studio-code"
