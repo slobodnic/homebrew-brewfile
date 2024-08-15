@@ -18,4 +18,7 @@ brew "kubectl"
 
 # .Net
 brew "dotnet"
-cask "dotnet-sdk"
+# cask "dotnet-sdk"
+
+# VS Code
+cash visual-studio-code
