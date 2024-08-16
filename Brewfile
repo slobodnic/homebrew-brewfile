@@ -25,3 +25,6 @@ cask "visual-studio-code"
 
 #iTerm2
 cask "iterm2"
+
+#KeePassXC
+cask keepassxc
