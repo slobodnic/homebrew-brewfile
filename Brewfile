@@ -15,6 +15,10 @@ brew "azure-cli"
 
 # Kubernetes
 brew "kubectl"
+brew "kubernetes-cli"
+
+# Helm
+brew "helm"
 
 # .Net
 brew "dotnet"
@@ -28,3 +32,8 @@ cask "iterm2"
 
 #KeePassXC
 cask "keepassxc"
+
+# Lens
+cask "lens"
+
+cask "postman"
