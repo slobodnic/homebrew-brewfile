@@ -36,4 +36,8 @@ cask "keepassxc"
 # Lens
 cask "lens"
 
+# Postman
 cask "postman"
+
+# Posgresql
+cask "pgadmin4"
