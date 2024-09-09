@@ -43,4 +43,4 @@ cask "postman"
 cask "pgadmin4"
 
 # Other tools
-brew neovim
+brew "neovim"
