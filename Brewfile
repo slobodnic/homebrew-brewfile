@@ -41,3 +41,6 @@ cask "postman"
 
 # Posgresql
 cask "pgadmin4"
+
+# Other tools
+neovim
