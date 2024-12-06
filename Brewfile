@@ -9,6 +9,7 @@ brew "jq"
 brew "yarn"
 brew "nvm"
 brew "angular-cli"
+brew "stern"
 
 # Azure cli
 brew "azure-cli"
