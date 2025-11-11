@@ -47,7 +47,8 @@ cask "pgadmin4"
 brew "neovim"
 
 # Podman
-brew "podman-desktop"
+brew "podman"
+cask "podman-desktop"
 
 # Kind 
 brew "kind"
